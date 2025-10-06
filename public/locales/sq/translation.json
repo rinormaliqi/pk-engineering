@@ -1,0 +1,341 @@
+{
+  "header": {
+    "topBar": {
+      "phone": "Telefono: +383 44 632 049",
+      "email": "Email: pkengineeringgroup1@gmail.com",
+      "promotion": "Skema e Granteve për Energji të Pastër,mbështetje deri në 25,000 € për bizneset prodhuese."
+    },
+    "nav": {
+      "home": "Ballina",
+      "services": "Shërbimet",
+      "projects": "Instalimet",
+      "about": "Rreth Nesh",
+      "contact": "Kontakti"
+    },
+    "buttons": {
+      "calculate": "Llogarit Kursimet",
+      "quote": "Ofertë Falas"
+    }
+  },
+  "hero": {
+    "company": "PK Engineering Group",
+    "title1": "Energji e",
+    "title2": "Paster",
+    "subtitle": "Zgjidhje të besueshme për sisteme diellore për shtëpi dhe biznese. Kurseni deri në 80% në faturat e energjisë.",
+    "button1": "Merrni Ofertën Falas",
+    "button2": "Mësoni Më Shumë",
+    "experience": "Vite Përvojë",
+    "warranty": "Vite Garanci",
+    "projects": "Projekte të Përfunduara"
+  },
+  "pricing": {
+    "title": "Çmimet Tona",
+    "subtitle": "Çmime Konkurruese për Çdo Lloj Instalimi",
+    "description": "Ofrojmë çmime transparente dhe pa surpriza për të gjitha llojet e instalimeve solare",
+    "tile": "Solete",
+    "tileRoof": "Çati me Tjegull",
+    "sandwich": "Sanduiç",
+    "withoutVat": "pa TVSH",
+    "specialized": "Instalim i specializuar",
+    "complex": "Për struktura komplekse",
+    "choose": "Zgjidh Këtë Opsion"
+  },
+  "partners": {
+    "title": "Partnerët Tanë",
+    "subtitle": "Bashkëpunojmë me markat më të mira në treg për të ofruar cilësinë më të lartë",
+    "solarPanels": "Panele Diellore",
+    "inverters": "Inverterë"
+  },
+  "about": {
+    "title": "Rreth Nesh",
+    "company": "PK Engineering Group",
+    "subtitle": "Ekspertë në Energji Diellore",
+    "description": "Me 5+ vjet përvojë në tregun Europian, ne sjellim inovacion dhe besueshmëri në çdo projekt",
+    "mission": "Misioni Ynë",
+    "missionText": "Misioni ynë është të mundësojmë përdorimin e energjisë së pastër dhe të rinovueshme nëpërmjet instalimit të sistemeve solare cilësore, duke kontribuar kështu në një të ardhme më të pastër dhe më të qëndrueshme për planetin tonë.",
+    "whyChoose": "Pse të na zgjidhni ne?",
+    "reasons": {
+      "quality": "Cilësi dhe besueshmëri e lartë",
+      "savings": "Kosto të ulëta dhe kursime të garantuara",
+      "environment": "Përkushtim ndaj mjedisit",
+      "service": "Shërbim i shkëlqyer ndaj klientit"
+    },
+    "international": "Eksperiencë Ndërkombëtare"
+  },
+  "services": {
+    "title": "Shërbimet Tona",
+    "subtitle": "Zgjidhje Komplet Diellore",
+    "solar": {
+      "title": "Sisteme Solare",
+      "description": "Instalim i sistemeve solare për shtëpi, biznese dhe ndërmarrje",
+      "residential": "Sisteme rezidenciale",
+      "commercial": "Sisteme komerciale",
+      "industrial": "Sisteme industriale"
+    },
+    "consultation": {
+      "title": "Konsulencë",
+      "description": "Ekspertët tanë ofrojnë konsulencë dhe projektim të personalizuar",
+      "needs": "Analizë e nevojave",
+      "design": "Projektim optimal",
+      "feasibility": "Studim fizibiliteti"
+    },
+    "maintenance": {
+      "title": "Mirëmbajtje",
+      "description": "Shërbim pas-shitje dhe mirëmbajtje e vazhdueshme për sistemet tuaja",
+      "monitoring": "Monitorim 24/7",
+      "periodic": "Mirëmbajtje periodike",
+      "support": "Ndihmë teknike"
+    },
+    "hydro": {
+      "title": "Instalime Hidrosanitare",
+      "description": "Zgjidhje profesionale për instalime ujësjellësi dhe kanalizimesh",
+      "homes": "Për banesa",
+      "businesses": "Për biznese",
+      "new": "Instalime të reja"
+    },
+    "ac": {
+      "title": "Kondicionerë",
+      "description": "Instalim dhe mirëmbajtje sisteme kondicionimi për çdo nevojë",
+      "residential": "Sisteme rezidenciale",
+      "commercial": "Sisteme komerciale",
+      "service": "Servis dhe mirëmbajtje"
+    },
+    "support": {
+      "title": "Mbështetje",
+      "description": "Mbështetje e plotë dhe garanci për të gjitha shërbimet tona",
+      "product": "Garanci produkti",
+      "installation": "Garanci instalimi",
+      "assistance": "Asistencë teknike"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Na Kontaktoni",
+    "description": "Jemi këtu për t'ju ndihmuar të kaloni në energjinë e ardhshme. Kontaktoni ne për një konsultim falas.",
+    "phone": "Telefon",
+    "email": "Email",
+    "location": "Vendndodhja",
+    "locationText": "Operojmë në të gjithë Kosoven",
+    "whyChoose": "Pse të na zgjidhni ne?",
+    "reasons": {
+      "experience": "5+ vjet përvojë në tregun Europian",
+      "brands": "Panele dhe inverterë të markave botërore",
+      "support": "Mbështetje e plotë pas-shitje"
+    },
+    "form": {
+      "title": "Dërgoni Mesazh",
+      "firstName": "Emri",
+      "lastName": "Mbiemri",
+      "email": "Email",
+      "phone": "Telefon",
+      "address": "Adresa",
+      "service": "Shërbimi i Interesuar",
+      "solar": "Sisteme Solare",
+      "hydro": "Instalime Hidrosanitare",
+      "ac": "Kondicionerë",
+      "consultation": "Konsultencë",
+      "message": "Mesazhi",
+      "send": "Dërgo Mesazhin"
+    }
+  },
+  "footer": {
+    "description": "Kompania e angazhuar në ofrimin e zgjidhjeve të energjisë diellore për shtëpi dhe biznese. Operojmë me përkushtim për cilësinë dhe mbështetjen pas shitjes.",
+    "services": "Shërbimet",
+    "solarSystems": "Sisteme Solare",
+    "consultation": "Konsulencë",
+    "maintenance": "Mirëmbajtje",
+    "hydro": "Instalime Hidrosanitare",
+    "ac": "Kondicionerë",
+    "contact": "Kontakt",
+    "cleanEnergy": "Energji e Pastër",
+    "cleanEnergyText": "Kontribuoni për një mjedis më të pastër duke përdorur energji të rinovueshme",
+    "rights": "© 2025 PK Engineering Group. Të gjitha të drejtat e rezervuara.",
+    "privacy": "Privatësia",
+    "terms": "Kushtet",
+    "license": "Licensa"
+  },
+  "calculator": {
+  "title": "Kalkulator i Kursimeve Solare",
+  "subtitle": "Zbuloni sa mund të kurseni duke instaluar panele diellore. Thjesht plotësoni të dhënat tuaja më poshtë.",
+  "input": {
+    "title": "Futni të Dhënat Tuaja",
+    "reset": "Rifillo",
+    "clientType": "Lloji i Klientit *",
+    "household": "🏠 Shtëpi",
+    "business": "🏢 Biznes",
+    "currency": "Monedha e Faturës *",
+    "euro": "💶 Euro (€)",
+    "lek": "🇦🇱 Lek (ALL)",
+    "connectionType": "Lloji i Lidhjes Elektrike *",
+    "connectionNote": "(për biznes)",
+    "mediumVoltage": "⚡ Tension Mesëm (6-20 kV) - ~18.8 ALL/kWh",
+    "highVoltage": "⚡ Tension i Lartë (35 kV) - ~31.5 ALL/kWh",
+    "monthlyBill": "Fatura Mesatare Mujore *",
+    "monthlyBillNote": "(shuma totale që paguani çdo muaj)",
+    "roofArea": "Sipërfaqja e Çatisë *",
+    "roofAreaNote": "(në metra katrorë - zona ku do të vendosen panelet)",
+    "installationType": "Lloji i Instalimit *",
+    "installationTypeNote": "(zgjidhni sipas llojit të çatisë suaj)",
+    "grant": "Subvencion / Grant",
+    "grantNote": "(nëse keni ndonjë mbështetje financiare)",
+    "advancedSettings": "Cilësime të Avancuara",
+    "productionPerKwp": "Prodhimi për kWp (kWh/vit)",
+    "productionPerKwpNote": "(zakonisht 1400 për Shqipëri)",
+    "exchangeRate": "Kursi EUR → ALL",
+    "exchangeRateNote": "(1 EUR = ? ALL)",
+    "tipTitle": "Këshillë:",
+    "tipText": "Nëse nuk jeni të sigurt për sipërfaqen e çatisë, vlerësoni përafërsisht. Një çati tipike e shtëpisë është 50-100 m²."
+  },
+  "result": {
+    "title": "Rezultatet e Llogaritjes",
+    "systemSize": "Madhësia e Sistemit",
+    "annualProduction": "Prodhim Vjetor",
+    "cleanEnergy": "Energji e pastër",
+    "monthlySavings": "Kursim Mujor",
+    "onYourBill": "Në faturën tuaj",
+    "annualSavings": "Kursim Vjetor",
+    "totalPerYear": "Total në vit",
+    "investmentDetails": "Detajet e Investimit",
+    "systemCost": "Kosto e Sistemit",
+    "systemCostAll": "Kosto e Sistemit (në ALL)",
+    "grantDeduction": "Subvencion / Grant",
+    "netCost": "Kosto Neto",
+    "netCostAll": "Kosto Neto (në ALL)",
+    "energyPriceUsed": "Çmimi i energjisë i përdorur",
+    "estimatedMonthlyConsumption": "Konsumi mujor i vlerësuar",
+    "paybackPeriod": "Periudha e Kthimit të Investimit",
+    "excellentInvestment": "✅ Investim i shkëlqyeshëm!",
+    "printReport": "Printo Raportin",
+    "downloadPDF": "Shkarko PDF",
+    "howItWorks": "Si funksionon ky kalkulator?",
+    "howItWorksText": "Kalkulatori analizon faturën tuaj dhe sipërfaqen e çatisë për të llogaritur sa energji mund të prodhoni me panele diellore. Rezultatet janë vlerësime bazuar në çmimet aktuale dhe kushtet lokale në Shqipëri.",
+    "tip": "💡 Këshillë: Për një analizë më të saktë, na kontaktoni për një konsultim falas."
+  },
+  "cta": {
+    "title": "Dëshironi një analizë më të detajuar?",
+    "subtitle": "Na kontaktoni për një konsultim falas dhe studim të personalizuar për shtëpinë tuaj.",
+      "phone": "Telefono: +383 44 632 049",
+    "email": "Email: pkengineeringgroup1@gmail.com"
+  },
+  "roofLimited": "Kufizuar nga çatia",
+  "installOptions": {
+    "tile": {
+      "label": "Solete (çati e rrafshët)",
+      "description": "Më e përballueshme"
+    },
+    "sandwich": {
+      "label": "Sanduiç / Metal",
+      "description": "Për çati metalike"
+    },
+    "tileRoof": {
+      "label": "Çati me Tjegull",
+      "description": "Më e shtrenjtë por më estetike"
+    }
+  }
+},
+"privacy": {
+  "title": "Politika e Privatësisë",
+  "lastUpdated": "Përditësuar më",
+  "intro": "Politika jonë e privatësisë shpjegon se si mbledhim, përdorim dhe mbrojmë të dhënat tuaja personale.",
+  "sections": {
+    "dataCollection": {
+      "title": "Të Dhënat që Mbledhim",
+      "content": "Ne mbledhim të dhëna kur ju na kontaktoni përmes formës sonë të kontaktit, na telefononi ose na dërgoni email. Kjo mund të përfshijë emrin, email-in, numrin e telefonit dhe adresën tuaj."
+    },
+    "dataUsage": {
+      "title": "Si i Përdorim Të Dhënat",
+      "content": "Të dhënat tuaja përdoren për të:• Ju ofruar shërbimet e kërkuara• Përgjigjur pyetjeve tuaja• Përmirësuar shërbimet tona• Dërguar informacione rreth produkteve tona (vetëm me lejen tuaj)"
+    },
+    "dataProtection": {
+      "title": "Mbrojtja e Të Dhënave",
+      "content": "Ne zbatojmë masa sigurie të përshtatshme për të mbrojtur të dhënat tuaja personale nga humbja, keqpërdorimi ose ndryshimi i paautorizuar."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Përdorim cookies për të përmirësuar përvojën tuaj në website. Cookies janë skedarë të vegjël të ruajtur në pajisjen tuaj."
+    },
+    "rights": {
+      "title": "Të Drejtat Tuaja",
+      "content": "Keni të drejtë të:• Aksesoni të dhënat tuaja personale• Kërkoni korrigjimin e të dhënave• Kërkoni fshirjen e të dhënave• Kundërshtani përpunimin e të dhënave"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "content": "Për çdo pyetje në lidhje me privatësinë tuaj, na kontaktoni në: eagreensolar@gmail.com"
+    }
+  }
+},
+"terms": {
+  "title": "Kushtet dhe Kushtet e Përdorimit",
+  "lastUpdated": "Përditësuar më",
+  "intro": "Ju lutemi lexoni me kujdes këto kushte para përdorimit të website-it tonë.",
+  "sections": {
+    "acceptance": {
+      "title": "Pranimi i Kushteve",
+      "content": "Duke përdorur këtë website, ju pranoni plotësisht këto kushte dhe kushte. Nëse nuk jeni në dakord, ju lutemi mos e përdorni website-in tonë."
+    },
+    "services": {
+      "title": "Përshkrimi i Shërbimeve",
+      "content": "E&A GREEN SOLAR ofron shërbime të instalimit të sistemeve solare, konsulencë energjetike dhe shërbime të lidhura. Të gjitha shërbimet janë subjekt i disponueshmërisë dhe kushteve të veçanta të kontratës."
+    },
+    "userObligations": {
+      "title": "Detyrimet e Përdoruesit",
+      "content": "Përdoruesit duhet të:• Ofrojnë informacione të sakta dhe të plota• Mos e përdorin website-in për qëllime të paligjshme• Respektojnë të drejtat e pronësisë intelektuale"
+    },
+    "intellectualProperty": {
+      "title": "Pronësia Intelektuale",
+      "content": "Të gjitha të drejtat e pronësisë intelektuale për përmbajtjen e këtij website-i i përkasin E&A GREEN SOLAR. Nuk lejohet riprodhimi pa leje paraprake."
+    },
+    "limitation": {
+      "title": "Kufizimi i Përgjegjësisë",
+      "content": "E&A GREEN SOLAR nuk mbart përgjegjësi për dëme të direkta apo indirekte që mund të lindin nga përdorimi i këtij website-i."
+    },
+    "changes": {
+      "title": "Ndryshime në Kushte",
+      "content": "Ne rezervojmë të drejtën të ndryshojmë këto kushte në çdo kohë. Ndryshimet do të bëhen të dukshme në këtë faqe."
+    },
+    "governingLaw": {
+      "title": "Ligji Zbatues",
+      "content": "Këto kushte rregullohen dhe interpretohen në përputhje me ligjet e Republikës së Shqipërisë."
+    }
+  }
+},
+"license": {
+  "title": "Licensa",
+  "lastUpdated": "Përditësuar më",
+  "intro": "Kjo licensë përcakton kushtet për përdorimin e përmbajtjes sonë.",
+  "sections": {
+    "grant": {
+      "title": "Dhënia e Licensës",
+      "content": "E&A GREEN SOLAR ju jep një licensë të kufizuar, jo-ekskluzive dhe të patransferueshme për të hyrë dhe përdorur këtë website për qëllime personale dhe jo-komerciale."
+    },
+    "restrictions": {
+      "title": "Kufizimet",
+      "content": "Nuk ju lejohet të:• Rishitni ose shpërndani përmbajtjen• Modifikoni ose krijoni vepra të prejardhura• Përdorni përmbajtjen për qëllime të paligjshme• Shkelni të drejtat e pronësisë intelektuale"
+    },
+    "intellectualProperty": {
+      "title": "Pronësia Intelektuale",
+      "content": "Të gjitha të drejtat e pronësisë intelektuale, përfshirë por jo duke u kufizuar tek markat tregtare, logo, dhe përmbajtja tekste, i përkasin E&A GREEN SOLAR."
+    },
+    "attribution": {
+      "title": "Atribucioni",
+      "content": "Kur përdorni përmbajtjen tonë, duhet të përfshini atribucionin e duhur tek E&A GREEN SOLAR."
+    },
+    "termination": {
+      "title": "Përfundimi i Licensës",
+      "content": "Kjo licensë përfundon automatikisht nëse shkelni ndonjë prej kushteve të saj. Pas përfundimit, duhet të shkatërroni të gjitha kopjet e përmbajtjes."
+    },
+    "warranty": {
+      "title": "Garancia",
+      "content": "Përmbajtja ofrohet 'ashtu si është' pa asnjë garanci, as të shprehur as të nënkuptuar."
+    },
+    "contact": {
+      "title": "Leje Speciale",
+      "content": "Për përdorime që shkelin këtë licensë, ju lutemi na kontaktoni për leje të veçantë në: eagreensolar@gmail.com"
+    }
+  }
+},
+"backToTop": {
+  "tooltip": "Kthehu në Fillim",
+  "ariaLabel": "Kthehu në fillim të faqes"
+}
+}

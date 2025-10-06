@@ -1,0 +1,341 @@
+{
+  "header": {
+    "topBar": {
+      "phone": "Phone: +383 44 632 049",
+      "email": "Email: pkengineeringgroup1@gmail.com",
+      "promotion":"Clean Energy Grant Scheme ,support for manufacturing businesses up to €25,000"
+    },
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "projects": "Instalations",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "calculate": "Calculate Savings",
+      "quote": "Free Quote"
+    }
+  },
+  "hero": {
+    "company": "PK Engineering Group",
+    "title1": "Clean",
+    "title2": "Energy",
+    "subtitle": "Reliable solar system solutions for homes and businesses. Save up to 80% on your energy bills.",
+    "button1": "Get Free Quote",
+    "button2": "Learn More",
+    "experience": "Years Experience",
+    "warranty": "Years Warranty",
+    "projects": "Completed Projects"
+  },
+  "pricing": {
+    "title": "Our Prices",
+    "subtitle": "Competitive Prices for Every Type of Installation",
+    "description": "We offer transparent prices with no surprises for all types of solar installations",
+    "tile": "Tile Roof",
+    "tileRoof": "Tiled Roof",
+    "sandwich": "Sandwich Panel",
+    "withoutVat": "without VAT",
+    "specialized": "Specialized installation",
+    "complex": "For complex structures",
+    "choose": "Choose This Option"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "We cooperate with the best brands in the market to provide the highest quality",
+    "solarPanels": "Solar Panels",
+    "inverters": "Inverters"
+  },
+  "about": {
+    "title": "About Us",
+    "company": "PK Engineering Group",
+    "subtitle": "Solar Energy Experts",
+    "description": "With 5+ years of experience in the European market, we bring innovation and reliability to every project",
+    "mission": "Our Mission",
+    "missionText": "Our mission is to enable the use of clean and renewable energy through the installation of quality solar systems, thus contributing to a cleaner and more sustainable future for our planet.",
+    "whyChoose": "Why Choose Us?",
+    "reasons": {
+      "quality": "High quality and reliability",
+      "savings": "Low costs and guaranteed savings",
+      "environment": "Commitment to the environment",
+      "service": "Excellent customer service"
+    },
+    "international": "International Experience"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete Solar Solutions",
+    "solar": {
+      "title": "Solar Systems",
+      "description": "Installation of solar systems for homes, businesses and enterprises",
+      "residential": "Residential systems",
+      "commercial": "Commercial systems",
+      "industrial": "Industrial systems"
+    },
+    "consultation": {
+      "title": "Consultation",
+      "description": "Our experts provide personalized consultation and design",
+      "needs": "Needs analysis",
+      "design": "Optimal design",
+      "feasibility": "Feasibility study"
+    },
+    "maintenance": {
+      "title": "Maintenance",
+      "description": "After-sales service and continuous maintenance for your systems",
+      "monitoring": "24/7 monitoring",
+      "periodic": "Periodic maintenance",
+      "support": "Technical support"
+    },
+    "hydro": {
+      "title": "Hydrosanitary Installations",
+      "description": "Professional solutions for water supply and sewage installations",
+      "homes": "For homes",
+      "businesses": "For businesses",
+      "new": "New installations"
+    },
+    "ac": {
+      "title": "Air Conditioners",
+      "description": "Installation and maintenance of air conditioning systems for every need",
+      "residential": "Residential systems",
+      "commercial": "Commercial systems",
+      "service": "Service and maintenance"
+    },
+    "support": {
+      "title": "Support",
+      "description": "Full support and warranty for all our services",
+      "product": "Product warranty",
+      "installation": "Installation warranty",
+      "assistance": "Technical assistance"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact Us",
+    "description": "We are here to help you transition to the energy of the future. Contact us for a free consultation.",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "locationText": "We operate throughout Kosova",
+    "whyChoose": "Why Choose Us?",
+    "reasons": {
+      "experience": "5+ years experience in European market",
+      "brands": "Solar panels and inverters from global brands",
+      "support": "Full after-sales support"
+    },
+    "form": {
+      "title": "Send Message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "service": "Service Interested In",
+      "solar": "Solar Systems",
+      "hydro": "Hydrosanitary Installations",
+      "ac": "Air Conditioners",
+      "consultation": "Consultation",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Company committed to providing solar energy solutions for homes and businesses. We operate with commitment to quality and after-sales support.",
+    "services": "Services",
+    "solarSystems": "Solar Systems",
+    "consultation": "Consultation",
+    "maintenance": "Maintenance",
+    "hydro": "Hydrosanitary Installations",
+    "ac": "Air Conditioners",
+    "contact": "Contact",
+    "cleanEnergy": "Clean Energy",
+    "cleanEnergyText": "Contribute to a cleaner environment by using renewable energy",
+    "rights": "© 2025 PK Engineering Group. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "license": "License"
+  },
+  "calculator": {
+  "title": "Solar Savings Calculator",
+  "subtitle": "Discover how much you can save by installing solar panels. Simply fill in your details below.",
+  "input": {
+    "title": "Enter Your Details",
+    "reset": "Reset",
+    "clientType": "Client Type *",
+    "household": "🏠 Household",
+    "business": "🏢 Business",
+    "currency": "Bill Currency *",
+    "euro": "💶 Euro (€)",
+    "lek": "🇦🇱 Lek (ALL)",
+    "connectionType": "Electricity Connection Type *",
+    "connectionNote": "(for business)",
+    "mediumVoltage": "⚡ Medium Voltage (6-20 kV) - ~18.8 ALL/kWh",
+    "highVoltage": "⚡ High Voltage (35 kV) - ~31.5 ALL/kWh",
+    "monthlyBill": "Average Monthly Bill *",
+    "monthlyBillNote": "(total amount you pay each month)",
+    "roofArea": "Roof Area *",
+    "roofAreaNote": "(in square meters - area where panels will be placed)",
+    "installationType": "Installation Type *",
+    "installationTypeNote": "(choose according to your roof type)",
+    "grant": "Subsidy / Grant",
+    "grantNote": "(if you have any financial support)",
+    "advancedSettings": "Advanced Settings",
+    "productionPerKwp": "Production per kWp (kWh/year)",
+    "productionPerKwpNote": "(usually 1400 for Albania)",
+    "exchangeRate": "Exchange Rate EUR → ALL",
+    "exchangeRateNote": "(1 EUR = ? ALL)",
+    "tipTitle": "Tip:",
+    "tipText": "If you're not sure about the roof area, estimate roughly. A typical house roof is 50-100 m²."
+  },
+  "result": {
+    "title": "Calculation Results",
+    "systemSize": "System Size",
+    "annualProduction": "Annual Production",
+    "cleanEnergy": "Clean energy",
+    "monthlySavings": "Monthly Savings",
+    "onYourBill": "On your bill",
+    "annualSavings": "Annual Savings",
+    "totalPerYear": "Total per year",
+    "investmentDetails": "Investment Details",
+    "systemCost": "System Cost",
+    "systemCostAll": "System Cost (in ALL)",
+    "grantDeduction": "Subsidy / Grant",
+    "netCost": "Net Cost",
+    "netCostAll": "Net Cost (in ALL)",
+    "energyPriceUsed": "Energy price used",
+    "estimatedMonthlyConsumption": "Estimated monthly consumption",
+    "paybackPeriod": "Investment Payback Period",
+    "excellentInvestment": "✅ Excellent investment!",
+    "printReport": "Print Report",
+    "downloadPDF": "Download PDF",
+    "howItWorks": "How does this calculator work?",
+    "howItWorksText": "The calculator analyzes your bill and roof area to calculate how much energy you can produce with solar panels. The results are estimates based on current prices and local conditions in Albania.",
+    "tip": "💡 Tip: For a more accurate analysis, contact us for a free consultation."
+  },
+  "cta": {
+    "title": "Want a more detailed analysis?",
+    "subtitle": "Contact us for a free consultation and personalized study for your home.",
+      "phone": "Phone: +383 44 632 049",
+    "email": "✉️ Email: pkengeenering1@gmail.com"
+  },
+  "roofLimited": "Limited by roof",
+  "installOptions": {
+    "tile": {
+      "label": "Tile Roof (flat roof)",
+      "description": "Most affordable"
+    },
+    "sandwich": {
+      "label": "Sandwich / Metal",
+      "description": "For metal roofs"
+    },
+    "tileRoof": {
+      "label": "Tiled Roof",
+      "description": "More expensive but more aesthetic"
+    }
+  }
+},
+"privacy": {
+  "title": "Privacy Policy",
+  "lastUpdated": "Last updated on",
+  "intro": "Our privacy policy explains how we collect, use, and protect your personal data.",
+  "sections": {
+    "dataCollection": {
+      "title": "Data We Collect",
+      "content": "We collect data when you contact us through our contact form, call us, or send us an email. This may include your name, email, phone number, and address."
+    },
+    "dataUsage": {
+      "title": "How We Use Your Data",
+      "content": "Your data is used to:• Provide the services you requested• Answer your questions• Improve our services• Send information about our products (only with your permission)"
+    },
+    "dataProtection": {
+      "title": "Data Protection",
+      "content": "We implement appropriate security measures to protect your personal data from loss, misuse, or unauthorized alteration."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "We use cookies to improve your experience on our website. Cookies are small files stored on your device."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "You have the right to:• Access your personal data• Request correction of your data• Request deletion of your data• Object to data processing"
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "For any questions regarding your privacy, contact us at: eagreensolar@gmail.com"
+    }
+  }
+},
+"terms": {
+  "title": "Terms and Conditions",
+  "lastUpdated": "Last updated on",
+  "intro": "Please read these terms carefully before using our website.",
+  "sections": {
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By using this website, you fully accept these terms and conditions. If you do not agree, please do not use our website."
+    },
+    "services": {
+      "title": "Description of Services",
+      "content": "E&A GREEN SOLAR provides solar system installation services, energy consulting, and related services. All services are subject to availability and specific contract terms."
+    },
+    "userObligations": {
+      "title": "User Obligations",
+      "content": "Users must:• Provide accurate and complete information• Not use the website for illegal purposes• Respect intellectual property rights"
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property",
+      "content": "All intellectual property rights for the content of this website belong to E&A GREEN SOLAR. Reproduction without prior permission is not allowed."
+    },
+    "limitation": {
+      "title": "Limitation of Liability",
+      "content": "E&A GREEN SOLAR is not liable for direct or indirect damages that may arise from the use of this website."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We reserve the right to change these terms at any time. Changes will be made visible on this page."
+    },
+    "governingLaw": {
+      "title": "Governing Law",
+      "content": "These terms are governed and interpreted in accordance with the laws of the Republic of Albania."
+    }
+  }
+},
+"license": {
+  "title": "License",
+  "lastUpdated": "Last updated on",
+  "intro": "This license defines the terms for using our content.",
+  "sections": {
+    "grant": {
+      "title": "License Grant",
+      "content": "E&A GREEN SOLAR grants you a limited, non-exclusive, and non-transferable license to access and use this website for personal and non-commercial purposes."
+    },
+    "restrictions": {
+      "title": "Restrictions",
+      "content": "You are not allowed to:• Resell or distribute the content• Modify or create derivative works• Use the content for illegal purposes• Violate intellectual property rights"
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property",
+      "content": "All intellectual property rights, including but not limited to trademarks, logos, and text content, belong to E&A GREEN SOLAR."
+    },
+    "attribution": {
+      "title": "Attribution",
+      "content": "When using our content, you must include proper attribution to E&A GREEN SOLAR."
+    },
+    "termination": {
+      "title": "License Termination",
+      "content": "This license terminates automatically if you violate any of its terms. Upon termination, you must destroy all copies of the content."
+    },
+    "warranty": {
+      "title": "Warranty",
+      "content": "Content is provided 'as is' without any warranty, either expressed or implied."
+    },
+    "contact": {
+      "title": "Special Permission",
+      "content": "For uses that violate this license, please contact us for special permission at: eagreensolar@gmail.com"
+    }
+  }
+},
+"backToTop": {
+  "tooltip": "Back to Top",
+  "ariaLabel": "Go back to top of the page"
+}
+}
